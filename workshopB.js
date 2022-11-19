@@ -23,6 +23,6 @@ const users = [
 ];
 
 for (const u of users) {
-  console.log(`"My nickname is ${u.nickname} ,My hobby is ${u.hobby}
+  console.log(`"My nickname is ${u.nickname} , My hobby is ${u.hobby}
   and my postcode is ${u.province.postcode}"`);
 }
